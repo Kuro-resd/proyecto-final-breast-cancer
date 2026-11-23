@@ -1,0 +1,20 @@
+# Entorno virtual y temporales de Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos auxiliares temporales de LaTeX (conserva .tex, .bib y .pdf)
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Archivos locales temporales
+estructura.txt
+
+#Esto por temas de seguridad ya que no quiero subir mis credenciales a GitHub y terminar con un problema de seguridad
